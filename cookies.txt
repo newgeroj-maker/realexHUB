@@ -1,0 +1,1 @@
+GuestData=UserID=-222689040; domain=.roblox.com; expires=Thu, 05-Feb-2054 15:04:53 GMT; path=/
